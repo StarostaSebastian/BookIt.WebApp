@@ -5,4 +5,4 @@ WebApp repository for BookIT open source microservice application.
 - [BookIt](https://github.com/Cichyy7/BookIt)
 - [BookIt.Common](https://github.com/Cichyy7/BookIt.Common)
 - [BookIt.WebApp](https://github.com/Cichyy7/BookIt.WebApp)
-- [BookIt.Books](https://github.com/Cichyy7/BookIt.Services.Books)
+- [BookIt.Services.Books](https://github.com/Cichyy7/BookIt.Services.Books)
